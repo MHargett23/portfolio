@@ -1,7 +1,7 @@
-# Portfolio
+# Portfolio 
 
-Profile<br>
-Portfolio<br>
-Contact<br><br>
+Profile  
+Portfolio  
+Contact  
 
-![ss of Portfolio page]("./assets/images/img.png")
+![Screenshot of Portfolio]("./assets/images/ss.png")
