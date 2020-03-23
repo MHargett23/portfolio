@@ -3,5 +3,5 @@
 Profile  
 Portfolio  
 Contact  
-
-![Screenshot of Portfolio]("./assets/images/ss.png")
+[Visit my Portfolio](https://mhargett23.github.io/Portfolio/)
+![Screenshot of Portfolio](./assets/images/ss.png)
