@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Description  
-A webpage dedicated to the professional work of Martin Hargett.
+A portfolio dedicated to the professional work of Martin Hargett.
 
 ### Links  
 [Portfolio](https://mhargett23.github.io/Portfolio/)  
